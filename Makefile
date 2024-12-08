@@ -1,7 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11
-OBJS = *.*
-TARGET = *.*
+TARGET = arduino
 
 all: $(TARGET)
 
